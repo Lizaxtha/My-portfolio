@@ -25,7 +25,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
         <div className='flex items-center justify-between'>
           {/* Logo */}
           <div className='text-xl font-bold text-gray-900 dark:text-white'>
-            <span className='text-blue-600 dark:text-blue-400'>Liza's</span>
+            <span className='text-blue-600 dark:text-blue-400'>Liza's </span>
             Portfolio
           </div>
 
